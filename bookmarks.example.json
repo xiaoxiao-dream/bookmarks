@@ -1,0 +1,22 @@
+[
+  {
+    "id": "65f1c3a9b2e4f.12345678",
+    "title": "GitHub",
+    "url": "https://github.com",
+    "desc": "代码托管平台",
+    "category": "开发",
+    "created_at": 1700000000,
+    "pinned": false,
+    "visits": 42
+  },
+  {
+    "id": "65f1c3a9b2e50.87654321",
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "desc": "Web 技术参考",
+    "category": "文档",
+    "created_at": 1700000100,
+    "pinned": true,
+    "visits": 7
+  }
+]
