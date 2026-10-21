@@ -3,6 +3,7 @@
 > 一个 PHP 文件，一个 JSON 文件。密码保护、表格/卡片双视图、批量编辑、拖拽排序、JSON 导入导出。没有数据库，没有 Composer，没有 CDN。
 
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?logo=php&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Single File](https://img.shields.io/badge/single--file-index.php-success)
 ![No Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
